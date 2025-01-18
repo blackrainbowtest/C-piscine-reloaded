@@ -28,16 +28,17 @@ Study, analyze, and learn from your own mistakes.
     <th>ex12</th>
   </tr>
   <tr>
-    <th>shell00</th>
+    <th>C-piscine-reloaded</th>
     <td><a href="https://github.com/blackrainbowtest/42_Yerevan/tree/main/Shell00/ex00"><img src="https://img.shields.io/badge/status-OK-brightgreen" alt="OK" /></a></td>
-    <td><a href="https://github.com/blackrainbowtest/42_Yerevan/tree/main/Shell00/ex01"><img src="https://img.shields.io/badge/status-OK-brightgreen" alt="OK" /></a></td>
-    <td><a href="https://github.com/blackrainbowtest/42_Yerevan/tree/main/Shell00/ex02"><img src="https://img.shields.io/badge/status-OK-brightgreen" alt="OK" /></a></td>
-    <td><a href="https://github.com/blackrainbowtest/42_Yerevan/tree/main/Shell00/ex03"><img src="https://img.shields.io/badge/status-OK-brightgreen" alt="OK" /></a></td>
-    <td><a href="https://github.com/blackrainbowtest/42_Yerevan/tree/main/Shell00/ex04"><img src="https://img.shields.io/badge/status-OK-brightgreen" alt="OK" /></a></td>
-    <td><a href="https://github.com/blackrainbowtest/42_Yerevan/tree/main/Shell00/ex05"><img src="https://img.shields.io/badge/status-OK-brightgreen" alt="OK" /></a></td>
-    <td><a href="https://github.com/blackrainbowtest/42_Yerevan/tree/main/Shell00/ex06"><img src="https://img.shields.io/badge/status-OK-brightgreen" alt="OK" /></a></td>
-    <td><a href="https://github.com/blackrainbowtest/42_Yerevan/tree/main/Shell00/ex07"><img src="https://img.shields.io/badge/status-OK-brightgreen" alt="OK" /></a></td>
-    <td><a href="https://github.com/blackrainbowtest/42_Yerevan/tree/main/Shell00/ex08"><img src="https://img.shields.io/badge/status-OK-brightgreen" alt="OK" /></a></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
     <td><a href="https://github.com/blackrainbowtest/42_Yerevan/tree/main/Shell00/ex09"><img src="https://img.shields.io/badge/status-NTI-orange" alt="NTI" /></a></td>
   </tr>
 
