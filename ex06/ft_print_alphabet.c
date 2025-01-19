@@ -6,25 +6,20 @@
 /*   By: aramarak <marvin@42.fr>                    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2025/01/19 14:15:56 by aramarak          #+#    #+#             */
-/*   Updated: 2025/01/19 14:18:52 by aramarak         ###   ########.fr       */
+/*   Updated: 2025/01/19 14:49:48 by aramarak         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include <unistd.h>
-
-void	ft_putchar(char ch)
-{
-	write(1, &ch, 1);
-}
+void	ft_putchar(char ch);
 
 void	ft_print_alphabet(void)
 {
-	char	a;
+	char	ch;
 
-	a = 'a';
-	while (a <= 'z')
+	ch = 'a';
+	while (ch <= 'z')
 	{
-		ft_putchar(a);
-		a++;
+		ft_putchar(ch);
+		ch++;
 	}
 }
